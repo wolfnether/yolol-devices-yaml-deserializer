@@ -2,6 +2,8 @@
 name = "yolol-yaml-deserializer"
 version = "0.1.0"
 edition = "2018"
+description = "yaml parser for network file in yaml format"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
