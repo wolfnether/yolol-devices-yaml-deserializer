@@ -1,0 +1,6 @@
+condense_wildcard_suffixes = true
+imports_layout="Vertical"
+reorder_imports = true
+group_imports = "StdExternalCrate"
+imports_granularity = "Item"
+newline_style="Unix"
